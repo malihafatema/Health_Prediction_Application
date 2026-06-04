@@ -1,4 +1,4 @@
-# 🏥 MIRA – Health Risk Predictor
+#  MIRA – Health Risk Predictor
 
 > **Medical Intelligence & Risk Assessment** · Built for the GOKUL Infocare Junior AI/ML Developer Technical Assessment
 
