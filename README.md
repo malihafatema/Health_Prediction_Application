@@ -11,7 +11,7 @@
 
 ---
 
-## 📋 Project Overview
+##  Project Overview
 
 MIRA is a full-stack, AI-powered health risk prediction application that helps healthcare professionals screen patients using three blood-test biomarkers: **Glucose**, **Haemoglobin**, and **Cholesterol**.
 
@@ -81,7 +81,7 @@ AI/ML Pipeline:
 
 ---
 
-## 📁 Folder Structure
+##  Folder Structure
 
 ```
 health-risk-predictor/
@@ -110,7 +110,7 @@ health-risk-predictor/
 
 ---
 
-## ⚙️ Installation
+##  Installation
 
 ### Prerequisites
 - Python 3.11+
@@ -143,7 +143,7 @@ streamlit run app.py
 
 ---
 
-## 🚀 Running the Application
+##  Running the Application
 
 ```bash
 streamlit run app.py
@@ -155,7 +155,7 @@ The app opens in your browser at `http://localhost:8501`.
 
 ---
 
-## 🤖 ML Model Explanation
+##  ML Model Explanation
 
 ### Why RandomForestClassifier?
 
@@ -192,7 +192,7 @@ Feature Importances:
 
 ---
 
-## 🧠 Gemini API Integration
+##  Gemini API Integration
 
 The AI pipeline follows this sequence:
 
@@ -211,7 +211,7 @@ The AI pipeline follows this sequence:
 
 ---
 
-## 🗄️ Database Design
+##  Database Design
 
 ```sql
 CREATE TABLE patients (
@@ -231,7 +231,7 @@ CREATE TABLE patients (
 
 ---
 
-## 🔮 Future Improvements
+##  Future Improvements
 
 - [ ] **Authentication** — Role-based access (Doctor / Nurse / Admin)
 - [ ] **Real Dataset Training** — Pima Indians Diabetes or NHANES dataset
@@ -244,7 +244,7 @@ CREATE TABLE patients (
 
 ---
 
-## 📬 Contact
+##  Contact
 
 Built by Maliha Fatema as a technical assessment submission for GOKUL Infocare.
 
